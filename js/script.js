@@ -1,8 +1,7 @@
 
-
+/* fungsi autcomplete mengambil dua argumen, elemen text field dan array nilai autocomplete */
 function autoComp(input, arr) {
     
-    /* fungsi autcomplete mengambil dua argumen, elemen text field dan array nilai autocomplete */
     var currentFocus;
 
     /*jalankan fungsi ketika seseorang menulis di text field*/
